@@ -27,7 +27,7 @@ Google Summer of Code is a global program that offers students stipends to write
 - Comprehensive documentation and tutorials
 
 ### 2. Extended LLM Prompt Editor-Explorer
-**Organization:** TBD  
+**Organization:** Rocket.Chat  
 **Project Description:** Create an advanced editor and explorer for large language model (LLM) prompts. This tool will help users craft, test, and optimize prompts for various applications, such as chatbots, content generation, and more.  
 **Benefits:** Streamlines the process of creating and managing prompts, enhances prompt performance, and provides a user-friendly interface.  
 **Key Features:**
@@ -38,15 +38,14 @@ Google Summer of Code is a global program that offers students stipends to write
 - Detailed documentation and user guides
 
 ### 3. News Aggregation App (Winning Proposal)
-**Organization:** TBD  
-**Project Description:** Develop a news aggregation application that collects and displays news from various sources, categorizes them, and provides a personalized newsfeed for users.  
+**Organization:** Rocket.Chat  
+**Project Description:** Develop a news aggregation application that collects and displays news from various sources, categorizes them using LLMs and based on requirements, and provides a personalized newsfeed for users.  
 **Benefits:** Offers a comprehensive and customizable news experience, keeping users informed with relevant news from multiple sources.  
 **Key Features:**
 - Aggregation of news from multiple sources
 - User-specific newsfeed customization
 - Categorization and tagging of news articles
 - Intuitive user interface
-- Mobile and web compatibility
 
 ## How to Use This Repository
 
